@@ -1,0 +1,13 @@
+song_duration_ms: -0.21
+acousticness: -1.05
+danceability: 2.09
+energy: -2.54
+instrumentalness: -2.29
+liveness: -0.68
+loudness: 2.7
+speechiness: -0.25
+tempo: -0.29
+time_signature: 0.44
+audio_valence: -2.16
+
+Constante: 53.05
